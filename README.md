@@ -1,7 +1,7 @@
 ### Olá! 
 
 
--💻 Hoje sou Doutoranda em Engenharia de Produção.
+-💻 Hoje sou Doutoranda em Engenharia de Produção(UFPE).
 
 -📚 Estudo Python voltado para ciência de dados, PowerBI e Cloud.
 
